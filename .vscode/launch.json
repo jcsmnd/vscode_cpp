@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E02",
+            "request": "launch",
+            "mainClass": "E02",
+            "projectName": "vscode_java_46a07546"
+        }
+    ]
+}
